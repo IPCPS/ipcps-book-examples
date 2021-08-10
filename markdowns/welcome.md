@@ -16,5 +16,5 @@ This *mandatory* file describes both the table of content and the programming pr
 
 # Code Example
 
-@[Hello World Example]({"stubs": ["HelloWorld.java"], "command": javac HelloWorld.java && java HelloWorld})
+@[Hello World Example]({"stubs": ["HelloWorld.java"], "command": "javac HelloWorld.java && java HelloWorld"})
 
