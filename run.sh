@@ -1,2 +1,2 @@
-javac -cp /usr/local/bin/tester.jar FirstExample.java
-java -classpath /usr/local/bin/tester.jar:. tester.Main FirstExample
+javac -cp /usr/local/bin/tester.jar $1.java
+java -classpath /usr/local/bin/tester.jar:. tester.Main $1
