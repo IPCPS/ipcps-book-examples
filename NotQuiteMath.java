@@ -1,3 +1,3 @@
 class NotQuiteMath {
-  int theAnswer1 = (5 + 3) / 2;
+  int theAnswer = (5 + 3) / 2;
 }
